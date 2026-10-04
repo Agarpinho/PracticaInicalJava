@@ -1,0 +1,4 @@
+ROL;ID;NOMBRE;EMAIL;PASSWORD;ACTIVO;NIVEL_ACCESO
+CLIENTE;U10;Maria Gomez;maria@email.com;1234;true;N/A
+ADMIN;U01;Admin General;admin@tienda.com;admin123;true;SUPERUSER
+CLIENTE;U100;Prueba;prueba@gmail.com;prueba123;true;N/A
